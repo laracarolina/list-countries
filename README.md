@@ -1,4 +1,5 @@
 # mova-teste
+Aplicação feita em Vue JS com Vuetify, Vuex e Vue Router para listar/filtrar/detalhar países através de uma api pública. 
 
 ## Project setup
 ```
