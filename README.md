@@ -1,5 +1,5 @@
 # list-countries
-Aplicação feita em Vue JS para listar/filtrar/detalhar países através de uma api pública. 
+Aplicação web feita em Vue JS para listar/filtrar/detalhar países através de uma api pública. 
 
 ## Project setup
 ```
